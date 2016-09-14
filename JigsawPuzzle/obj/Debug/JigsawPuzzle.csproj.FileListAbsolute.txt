@@ -1,0 +1,11 @@
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\bin\Debug\JigsawPuzzle.exe.config
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\bin\Debug\JigsawPuzzle.exe
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\bin\Debug\JigsawPuzzle.pdb
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\bin\Debug\ctlJigsawPuzzle.dll
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\bin\Debug\ctlJigsawPuzzle.pdb
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.csprojResolveAssemblyReference.cache
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.MainForm.resources
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.Properties.Resources.resources
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.csproj.GenerateResource.Cache
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.exe
+C:\TEMP\ctlJigsawPuzzle\JigsawPuzzle\obj\Debug\JigsawPuzzle.pdb
